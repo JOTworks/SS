@@ -1,3 +1,12 @@
 
 *.log
 Saved/AutoScreenshot.png
+Saved/Logs/SS.log
+Saved/Config/Windows/Engine.ini
+Saved/Config/Windows/EditorPerProjectUserSettings.ini
+Saved/Config/CrashReportClient/UE4CC-Windows-E76A36D84881E6BB215E40834EEF9DD2/CrashReportClient.ini
+Saved/Config/CrashReportClient/UE4CC-Windows-4F1BD9EE4E495B24D04082A0CF971614/CrashReportClient.ini
+Saved/Config/CrashReportClient/UE4CC-Windows-4E7BF82A4FFFF532D7AF779E8FA44619/CrashReportClient.ini
+Saved/Config/CrashReportClient/UE4CC-Windows-41D807E840C38C0196E7CE9F1DEAA8D1/CrashReportClient.ini
+Saved/Config/CrashReportClient/UE4CC-Windows-41D807E840C38C0196E7CE9F1DEAA8D1/.DS_Store
+Intermediate/CachedAssetRegistry.bin
