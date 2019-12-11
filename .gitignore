@@ -1,5 +1,6 @@
 
 *.log
+Saved/*
 Saved/AutoScreenshot.png
 Saved/Logs/SS.log
 Saved/Config/Windows/Engine.ini
